@@ -11,7 +11,7 @@ text-decoration: underline;
 }
 .class="caption" {
 width: 50%;
-text-decoration: italicize;
+font-style: italic;
 }
 .id="most_important" {
 background-color: light-gray;
