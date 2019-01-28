@@ -3,18 +3,18 @@ margin-top: 25px;
 margin-bottom: 35px;
 }
 li {
-color:blue;
+color: blue;
 }
 code {
-font-family: "Helvetica";
 text-decoration: underline;
+  font-family: "Helvetica";
 }
 .class="caption" {
 width: 50%;
 font-style: italic;
 }
 .id="most_important" {
-background-color:lightgray;
+background-color: lightgray;
 height: 100px;
 width: 200px;
 }
