@@ -3,7 +3,7 @@ margin-top: 25px;
 margin-bottom: 35px;
 }
 li {
-color: blue;
+text-color: blue;
 }
 code {
 font-family: "Helvetica";
@@ -14,7 +14,7 @@ width: 50%;
 text-decoration: italicize;
 }
 div id="most_important" {
-background-color: light gray;
+background-color: light-gray;
 height: 100px;
 width: 200px;
 }
