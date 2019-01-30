@@ -4,6 +4,12 @@ hr {
   margin-top: 25px;
   margin-bottom: 35px;
 }
+p {
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-right: auto;
+  margin-left: auto;
+}
 .row {
   display: flex;
   flex-wrap: wrap;
