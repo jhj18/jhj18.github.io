@@ -4,6 +4,12 @@ hr {
   margin-top: 25px;
   margin-bottom: 35px;
 }
+div {
+  width: 300px;
+  border: 25px solid red;
+  padding: 25px;
+  margin: 25px;
+}
 p {
   margin-top: 100px;
   margin-bottom: 100px;
