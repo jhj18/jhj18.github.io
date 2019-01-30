@@ -8,11 +8,17 @@ hr {
   margin-top: auto;
   margin-bottom: auto;
 }
+title {
+  height: auto;
+  width; auto;
+  font-family: Baskerville;
+  font-weight: bold;
+  color: black;
 h1 {
   height: auto;
   width: auto;
   font-family: Baskerville;
-  font-weight: 400;
+  font-weight: normal;
   color: black;
 }
 h4 {
