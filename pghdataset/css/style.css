@@ -18,7 +18,7 @@ title {
   color: black;
 }
 h1 {
-  margin: 100px;
+  margin: 150px;
   height: auto;
   width: auto;
   font-family: Baskerville;
@@ -26,7 +26,7 @@ h1 {
   color: black;
 }
 h4 {
-  margin: 100px;
+  margin: 150px;
   height: auto;
   width; auto;
   font-family: Baskerville;
@@ -40,7 +40,7 @@ div {
   background-color: #fafad2;
 }
 body {
-  margin: 100px;
+  margin: 150px;
   font-family: Baskerville;
   font-size: 12pt;
   font-weight: 400;
@@ -60,7 +60,7 @@ body {
   z-index: 999;
 }
 #tabBootErrTitle {
-  margin: 100px;
+  margin: 150px;
   font-size: 14pt;
   font-weight: bold;
   color: black;
@@ -68,7 +68,7 @@ body {
   padding: 5px 6px 3px 6px;
 }
 #tabBootErrBody {
-  margin: 100px;
+  margin: 150px;
   overflow: auto;
   color: black;
   font-size: 12pt;
