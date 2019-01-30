@@ -12,6 +12,7 @@ title {
   height: auto;
   width; auto;
   font-family: Baskerville;
+  font-size: 14pt;
   font-weight: bold;
   color: black;
 }
@@ -39,7 +40,7 @@ body {
   position: absolute;
   margin: 100px;
   font-family: Baskerville;
-  font-size: 1rem;
+  font-size: 12pt;
   font-weight: 400;
   line-height: 1.5;
   color: black;
