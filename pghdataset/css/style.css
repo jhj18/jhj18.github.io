@@ -5,6 +5,8 @@ hr {
   margin-bottom: auto;
 }
 h1 {
+  height: auto;
+  width: auto;
   background-color: lightgray;
   font-family: "Segoe UI";
   font-weight: 400;
