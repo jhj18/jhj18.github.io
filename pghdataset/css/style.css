@@ -14,7 +14,7 @@ div {
   height: auto;
   width: auto;
   margin: auto;
-  background-color: #fafad2
+  background-color: #fafad2;
 }
 .row {
   display: flex;
