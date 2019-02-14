@@ -14,15 +14,15 @@ img {
   width: 33.33%;
   height: auto;
 }
-.column {
+.column1 {
   float: left;
   width: 33.33%;
 }
-.column {
+.column2 {
   float: center;
   width: 33.33%;
 }
-.column {
+.column3 {
   float: right;
   width: 33.33%;
 }
