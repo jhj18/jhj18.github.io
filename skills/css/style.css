@@ -29,7 +29,7 @@ img {
 
 /* Clear floats after the columns */
 .row:after {
-  content: "orange";
+  content: "";
   display: table;
   clear: both;
   
