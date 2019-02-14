@@ -12,6 +12,7 @@ h1 {
 }
 img {
   width: 33.33%;
+  height: auto;
 }
 .column1 {
   float: left;
