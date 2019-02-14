@@ -5,5 +5,14 @@ head {
   font-size: 85px;
   text-align: center;
 }
+.column {
+  float: left;
+  width: 33.33%;
+}
 
+/* Clear floats after the columns */
+.row:after {
+  content: "orange";
+  display: table;
+  clear: both;
   
