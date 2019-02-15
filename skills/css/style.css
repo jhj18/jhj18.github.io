@@ -59,6 +59,9 @@ img {
   margin: 0px;
   padding: 0px;
 }
+a:img {
+  style: none;
+}
 .column1 {
   float: left;
   width: 25%;
