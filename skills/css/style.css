@@ -73,6 +73,13 @@ img {
   float: right;
   width: 25%;
 }
+
+  /* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
 #content {
   width: 100%;
   height: auto;
