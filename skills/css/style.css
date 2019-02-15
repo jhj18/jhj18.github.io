@@ -15,9 +15,15 @@ ul {
   margin: 0px;
   padding: 0px;
 }
-li a {
-  display: block;
+li {
+  display: inline;
+  float: left;
   width: 25%;
+}
+a {
+  display: block;
+  padding: 8px;
+  background-color: #2f4f4f;
 }
 img {
   width: 25%;
