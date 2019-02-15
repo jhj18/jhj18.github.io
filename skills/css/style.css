@@ -27,27 +27,27 @@ li {
   border-width: 2px;
   padding: 4px;
 }
-a {
+nav a {
   display: block;
   padding: 8px;
   background-color: #505050;
 }
-a:link {
+nav a:link {
   color: white;
   text-decoration: none;
   font-weight: normal;
 }
-a:active {
+nav a:active {
   color: white;
   text-decoration: none;
   font-weight: normal;
 }
-a:visited {
+nav a:visited {
   color: white;
   text-decoration: none;
   font-weight: normal;
 }
-a:hover {
+nav a:hover {
   background-color: white;
   color: #505050;
   text-decoration: none;
