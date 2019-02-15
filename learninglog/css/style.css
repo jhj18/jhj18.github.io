@@ -3,6 +3,7 @@ h1 {
   font-size: 85px;
   font-family: "Century Gothic";
   color: white;
+  text-align: center;
 .bg-primary text-white {
   margin: 2px;
   padding: 2px;
