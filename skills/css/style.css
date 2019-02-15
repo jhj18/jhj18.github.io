@@ -1,5 +1,5 @@
 body {
-  background-color: #2f4f4f;
+  background-color: #303030;
 }
 h1 {
   background-color: black;
@@ -23,7 +23,7 @@ li {
 a {
   display: block;
   padding: 8px;
-  background-color: #2f4f4f;
+  background-color: #303030;
 }
 img {
   width: 25%;
