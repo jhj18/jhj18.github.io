@@ -62,6 +62,9 @@ img {
 img:link {
   background-color: #505050;
 }
+img:hover {
+  background-color: #505050;
+}
 .column1 {
   float: left;
   width: 25%;
