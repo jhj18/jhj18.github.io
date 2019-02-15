@@ -59,8 +59,8 @@ img {
   margin: 0px;
   padding: 0px;
 }
-a:img {
-  style: none;
+img:link {
+  background-color: #505050;
 }
 .column1 {
   float: left;
