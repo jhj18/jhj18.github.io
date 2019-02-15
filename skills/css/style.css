@@ -20,6 +20,12 @@ li {
   display: inline;
   float: left;
   width: 25%;
+  font-size: 35px;
+  font-family: "Century Gothic";
+  text-align: center;
+  border-color: white;
+  border-width: 2px;
+  padding: 4px;
 }
 a {
   display: block;
