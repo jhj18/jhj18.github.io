@@ -10,6 +10,15 @@ h1 {
   width: 100%;
   margin-top: 0px;
 }
+ul {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+}
+li a {
+  display: block;
+  width: 25%;
+}
 img {
   width: 25%;
   height: auto;
