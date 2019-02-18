@@ -27,32 +27,6 @@ li {
   border-width: 2px;
   padding: 4px;
 }
-a {
-  display: block;
-  padding: 8px;
-  background-color: #505050;
-}
-a:link {
-  color: white;
-  text-decoration: none;
-  font-weight: normal;
-}
-a:active {
-  color: white;
-  text-decoration: none;
-  font-weight: normal;
-}
-a:visited {
-  color: white;
-  text-decoration: none;
-  font-weight: normal;
-}
-a:hover {
-  background-color: white;
-  color: #505050;
-  text-decoration: none;
-  font-weight: normal;
-}
 img {
   width: 25%;
   height: auto;
