@@ -22,6 +22,10 @@ th {
   margin-bottom: 0px;
   margin-left, margin-right: 2px;
 }
+th img {
+  width: 100%;
+  margin: 0px;
+}
 ul {
   list-style-type: none;
   margin: 0px;
