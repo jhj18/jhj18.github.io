@@ -23,8 +23,7 @@ li {
   font-size: 35px;
   font-family: "Century Gothic";
   text-align: center;
-  border-color: white;
-  border-width: 2px;
+  border-width: 0px;
   padding: 4px;
 }
 img {
