@@ -32,12 +32,7 @@ img {
   height: auto;
   margin: 0px;
   padding: 0px;
-}
-img:link {
-  background-color: #505050;
-}
-img:hover {
-  background-color: #505050;
+  border-width: 0px;
 }
 .column1 {
   float: left;
