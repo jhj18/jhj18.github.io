@@ -19,6 +19,11 @@ h2 {
   margin-bottom: 20px;
   margin-left: 250px;
 }
+hr {
+  color: black;
+  width: 1200px;
+  line-width: 3px;
+}
 img {
   width: 1200px;
   height: auto;
