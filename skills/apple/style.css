@@ -19,3 +19,13 @@ h2 {
   margin-bottom: 20px;
   margin-left: 250px;
 }
+.container {
+  width: 900px;
+  height: auto;
+  font-family: "Century Gothic";
+  font-size: 25px;
+  text-align: left;
+  margin-top: 100px;
+  margin-bottom: 20px;
+  margin-left: 250px;
+}
