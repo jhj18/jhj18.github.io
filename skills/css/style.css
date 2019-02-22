@@ -56,15 +56,18 @@ img {
 .skill {
     position:relative;
     z-index:101;
+    text-align: center;
 }
 .skill:hover {
     z-index:99;
+    text-align: center;
 }
 .exp {
     position : absolute;
     top:100px;
     left:20px;
     z-index:100;
+    text-align: center;
 }
 
   /* Clear floats after the columns */
