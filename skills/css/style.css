@@ -74,3 +74,19 @@ h1 {
   margin: 10px 0 0;
   padding: 0;
 }
+ul {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+}
+li {
+  display: inline;
+  float: left;
+  width: 25%;
+  font-size: 35px;
+  font-family: "Century Gothic";
+  text-align: center;
+  border-width: 0px;
+  padding: 0px;
+  margin: 0px;
+}
