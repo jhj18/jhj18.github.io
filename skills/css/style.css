@@ -49,17 +49,12 @@ img {
   padding: 0px;
   border-width: 0px;
 }
-.column1 {
-  float: left;
-  width: 25%;
+.skill + .exp {
+  opacity: 0;
+  transitioin: opacity 1s;
 }
-.column2 {
-  float: center;
-  width: 25%;
-}
-.column3 {
-  float: right;
-  width: 25%;
+.skill:hover + .exp {
+  opacity: 1;
 }
 
   /* Clear floats after the columns */
