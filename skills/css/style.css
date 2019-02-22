@@ -1,6 +1,10 @@
 body {
   background-color: #ffb6c1;
 }
+p {
+  color: white;
+  font-size: 8px;
+}
 h1 {
   background-color: black;
   color: white;
