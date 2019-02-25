@@ -17,9 +17,19 @@ body {
   font-size: 20px;
   font-family: "Century Gothic";
   text-align: justify;
-  margin: 1px;
-  padding: 1px;
+  margin: 50px;
+  padding: 20px;
   border: solid;
   border-width: 1px;
   border-color: black;
-  }
+}
+.table {
+  border: solid;
+  border-width: 1px;
+  border-color: black;
+}
+tr {
+  border: solid;
+  border-width: 1px;
+  border-color: black;
+}
