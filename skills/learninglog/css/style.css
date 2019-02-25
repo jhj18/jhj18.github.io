@@ -1,0 +1,13 @@
+h1 {
+  background-color: black;
+  font-size: 85px;
+  font-family: "Century Gothic";
+  color: white;
+  text-align: center;
+.bg-primary text-white {
+  margin: 2px;
+  padding: 2px;
+  border-width: 2px;
+  border-color: black;
+  border-type: solid;
+}
