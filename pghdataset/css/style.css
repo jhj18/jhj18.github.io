@@ -8,10 +8,6 @@ hr {
   margin-top: auto;
   margin-bottom: auto;
 }
-p {
-  margin-left: 100px;
-  margin-right: 100px;
-}
 title {
   height: auto;
   width; auto;
@@ -85,7 +81,7 @@ div {
   background-color: #fafad2;
 }
 body {
-  margin: 150px;
+  margin: 100px;
   font-family: "Century Gothic";
   font-size: 12pt;
   font-weight: 400;
