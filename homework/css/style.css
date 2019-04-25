@@ -1,3 +1,23 @@
+hr {
+  margin-top: 25px;
+  margin-bottom: 35px;
+}
+li {
+  color: blue;
+}
+code {
+  font-family: Helvetica;
+  text-decoration: underline;
+}
+.caption {
+  width: 50%;
+  font-style: italic;
+}
+#most_important {
+  background-color: light-gray;
+  width: 200px;
+  height: 100px;
+}
 nav a:active { 
   color: white; 
   text-decoration: none; 
