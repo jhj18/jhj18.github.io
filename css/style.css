@@ -9,6 +9,22 @@ code {
 text-decoration: underline;
   font-family: Helvetica;
 }
+nav a:active { 
+  color: white; 
+  text-decoration: none; 
+  font-weight: normal; 
+}
+nav a:visited { 
+  color: white; 
+  text-decoration: none; 
+  font-weight: normal; 
+}
+nav a:hover { 
+  background-color: white; 
+  color: black; 
+  text-decoration: none; 
+  font-weight: normal; 
+}
 .caption {
 width: 50%;
 font-style: italic;
