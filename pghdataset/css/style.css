@@ -16,11 +16,13 @@ title {
   height: auto;
   width; auto;
   margin-left: 100px;
-  font-family: Baskerville;
+  font-family: "Century Gothic";
   font-size: 14pt;
   font-weight: bold;
   color: black;
 }
+h3 {
+  margin-left: 100px;
 ul {
   margin-bottom: 100px;
 }
@@ -59,14 +61,14 @@ nav li {
 h1 {
   height: auto;
   width: auto;
-  font-family: Baskerville;
+  font-family: "Century Gothic";
   font-weight: normal;
   color: black;
 }
 h4 {
   height: auto;
   width; auto;
-  font-family: Baskerville;
+  font-family: "Century Gothic";
   font-weight: bold;
   color: black;
   }
@@ -78,7 +80,7 @@ div {
 }
 body {
   margin: 150px;
-  font-family: Baskerville;
+  font-family: "Century Gothic";
   font-size: 12pt;
   font-weight: 400;
   line-height: 1.5;
@@ -93,7 +95,7 @@ body {
   left: 50%;
   background: #fafad2;
   padding: 0;
-  font-family: Baskerville;
+  font-family: Helvetica;
   z-index: 999;
 }
 #tabBootErrTitle {
