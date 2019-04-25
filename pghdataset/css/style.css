@@ -123,3 +123,7 @@ body {
 #tabBootErrMsg {
   white-space: pre-line;
 }
+.col-md-8 {
+  margin-left: 100px;
+  margin bottom: 100px;
+}
