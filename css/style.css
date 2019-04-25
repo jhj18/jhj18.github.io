@@ -32,7 +32,7 @@ ul {
   width: 60px;
 }
 li {
-  display: block;
+  display: inline;
   float: left;
   width: 25%;
   font-size: 35px;
