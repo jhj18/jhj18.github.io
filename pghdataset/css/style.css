@@ -32,12 +32,12 @@ nav a:hover {
   text-decoration: none; 
   font-weight: normal; 
 }
-ul {
+nav ul {
   list-style-type: none;
   margin: 0px;
   padding: 0px;
 }
-li {
+nav li {
   display: inline;
   float: left;
   width: 25%;
